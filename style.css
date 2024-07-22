@@ -1,0 +1,15 @@
+table,td{
+    margin: 0px;
+    padding: 0px;
+    border: 2px;
+    border-collapse: collapse;
+    border-style: groove;
+}
+td{
+    height: 50px;
+    width: 50px;
+}
+.b
+{
+    background-color: black;
+}
